@@ -4,7 +4,7 @@
 
 POST /convert converts text, HTML, or DOCX text into a target format using standard-library adapters and optional external tools for PDF.
 
-This is a small reusable Python 3.11 service with no AI components and no runtime dependencies. It uses the standard library HTTP server so it can be copied into internal automation, extended, or deployed behind a reverse proxy.
+This is a small reusable Python 3.11 service with no runtime dependencies. It uses the standard library HTTP server so it can be copied into internal automation, extended, or deployed behind a reverse proxy.
 
 ## Run
 
